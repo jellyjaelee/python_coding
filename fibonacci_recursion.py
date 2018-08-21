@@ -6,4 +6,4 @@ def get_fibonacci(value):
 
     return get_fibonacci(value-1) + get_fibonacci(value - 2)
 
-print (get_fibonacci(100))
+print (get_fibonacci(5))
